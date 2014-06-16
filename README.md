@@ -1,4 +1,4 @@
 customer-service
 ==============
 
-weixin-custom-service
+weixin-custom-service-management
