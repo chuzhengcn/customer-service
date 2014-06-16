@@ -1,4 +1,4 @@
-custom-service
+customer-service
 ==============
 
 weixin-custom-service
